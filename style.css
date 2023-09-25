@@ -1,0 +1,176 @@
+
+.five{padding-left: 250px;}
+
+.six{padding-left: 140px;
+
+
+}
+
+
+.gets{background-color: orangered;
+      border-radius: 10px;
+      border: 0;
+      color: white;
+    }
+.div2{font-size: 30px;
+text-align: auto;
+}
+
+
+.seven{float: right;
+padding-top: 5px;
+
+}
+.eight{background-color:orangered;
+    border-radius: 20px;
+    
+}
+.nine{
+    float: left;
+    padding-left: 150px;
+    margin-top: 80px;
+    opacity: 0.7;
+    font-size: 13px;
+    
+}
+.ten{
+    float: right;
+    padding-right: 200px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+.sm1{
+float: left;
+}
+.sm2{
+float: right;
+}
+
+
+.thir{background-color:rgb(226, 146, 146);
+    
+height: 320px;
+}
+   /* section3*/
+   .mod_one{
+    padding-left: 200px;
+    float: left;
+    padding-top:30px ;
+   }
+  .modern{
+    height: 450px;
+  }
+.big_div{
+    float: right;
+    padding-left:50px;
+    padding-top: 50px;
+
+   
+}
+
+
+
+
+
+
+.kabi{text-align: right;
+padding-left: 20px;
+margin-left: 20px;
+
+}
+
+.kapee{
+    text-align: center;
+padding-bottom: 40px;
+
+}
+
+
+
+.pic{padding-left: 50px;
+    float: left;
+
+}
+
+
+
+.box{text-align: center;
+    float: right;
+    padding-top: 100px;
+    padding-left: 100px;
+
+
+}
+ul{
+    display: inline;
+    display:flex;
+    gap: 10px;
+    list-style: none;
+    text-align: center;
+    padding-left: 540px;
+    font-size: 10px;
+    
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    flex-direction: row;
+    max-height: 100vh;
+    
+  }
+
+
+
+.cards img {
+    margin: 10px;
+    border: 3px solid #000;
+    box-shadow: 3px 3px 8px 0px rgba(0,0,0,0.3); 
+    max-width: 23vw;
+    padding-right: 50px;
+    
+    margin-right: 20px;
+  }
+
+  body{border: 3px solid;
+/* margin: 185px; */
+border-style: groove;
+
+
+}
+
+.big{padding-bottom: 500px;
+margin-bottom: auto;
+}
+
+
+
+.team{text-align: center;
+}
+
+.heading{text-align:center ;}
+
+.cola{font-size: 9px;
+color: rgb(184, 176, 176);
+}
+
+
+.matu{text-align: center; }
+
+.z:link{color:red}
+.z:visited{color: green;}
+.z:hover{color:red;}
+.z:active{color: blue;}
+
+
+.act{color: orangered;}
+
+.elec{color: rgba(211, 201, 201, 0.952);}
+
+.clients{color:rgb(184, 178, 178)}
+
+
+.row{padding-left: 20%;}
+.sec two{padding-left: 20%;}
+.sec three{padding-left: 10%;}
