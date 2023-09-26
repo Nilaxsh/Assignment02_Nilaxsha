@@ -59,13 +59,14 @@ height: 320px;
    }
   .modern{
     height: 450px;
+    padding-left: 10px;
   }
 .big_div{
     float: right;
     padding-left:50px;
-    padding-top: 50px;
+    padding-top: 80px;
 
-   
+   padding-left: 20px;
 }
 
 
@@ -173,4 +174,16 @@ color: rgb(184, 176, 176);
 
 .row{padding-left: 20%;}
 .sec two{padding-left: 20%;}
-.sec three{padding-left: 10%;}
+.secthree{padding-left: 0;}
+
+
+.container{padding-right: 25%;}
+
+.regonize{padding-right:20% ;}
+
+.adap{padding-left: 5%;}
+
+
+
+.footer{background-color:rgb(226, 146, 146);}
+body{background-color:linen;}
